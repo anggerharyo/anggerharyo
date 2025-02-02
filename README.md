@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! I'm Angger Haryo Putranto 🤖 </h1>
+<h1 align="center">¡Hola! I'm Angger 🤖 </h1>
 <h3 align="center">An Enthusiast in Machine Learning, AI, and Data </h3>
 
 ---
@@ -11,9 +11,10 @@
   <img src="https://komarev.com/ghpvc/?username=anggerharyo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-## 📫 Contact Me
-- Email: **anggerharyo57@gmail.com**
-- Fun fact: **I love singing!**
+## 🧑‍💻 About Me  
+Hey there! I’m Angger, an Informatics Engineering student with a passion for **data, AI, and machine learning**. I enjoy turning messy data into meaningful insights and building AI models that (hopefully) make life easier. Currently diving deep into MLOps & AWS Back-End Development, while having fun by taking on hobbies and new challenges 😆
+
+🎵 Fun fact: I’m always up for exploring new things, whether it’s a tech breakthrough or just trying out a new hobby like singing. Life’s too short to stick to just one thing, right?
 
 ---
 
@@ -58,3 +59,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anggerharyo&" alt="GitHub Streak" />
 </p>
+
