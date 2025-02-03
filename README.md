@@ -3,9 +3,6 @@
 
 
 <h1 align="center">¡Hola! I'm Angger 🤖 </h1>
-<h3 align="center">An Enthusiast in Machine Learning, AI, and Data </h3>
-
----
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Coding" width="500"/>
@@ -16,9 +13,9 @@
 </p>
 
 ## 🧑‍💻 About Me  
-Hey there! I’m Angger, an Informatics Engineering student with a passion for **data, AI, and machine learning**. I enjoy turning messy data into meaningful insights and building AI models that (hopefully) make life easier. Currently diving deep into MLOps & AWS Back-End Development, while having fun by taking on hobbies and new challenges 😆
+Hey there! I’m Angger, an Informatics Engineering student with a passion for **data, AI, and machine learning**. Currently diving deep into MLOps & AWS Back-End Development, while having fun by taking on hobbies and new challenges 😆
 
-🎵 Fun fact: I’m always up for exploring new things, whether it’s a tech breakthrough or just trying out a new hobby like singing. Life’s too short to stick to just one thing, right?
+🎵 Fun fact: I love exploring new things, whether it’s a tech breakthrough or trying out a new hobby like singing. Life’s too short to stick to just one thing, right?
 
 ---
 
