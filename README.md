@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">¡Hola! I'm Angger 🤖 </h1>
+<h1 align="center">¡Hola! I'm Angger Haryo 🤖 </h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Coding" width="500"/>
